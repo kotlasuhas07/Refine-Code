@@ -1,0 +1,10 @@
+{
+  "name": "RefineCode",
+  "short_name": "RefineCode",
+  "description": "RefineCode delivers AI-powered code review and analysis for modern developers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafbfc",
+  "theme_color": "#6366f1",
+  "categories": ["developer", "productivity", "utilities"]
+}
